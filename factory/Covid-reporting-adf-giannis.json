@@ -1,0 +1,9 @@
+{
+	"name": "Covid-reporting-adf-giannis",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "626a3d3a-ee22-4698-8d00-758ce7c346f1",
+		"tenantId": "8d34f8a5-7afc-42bf-bdfd-d5b734a0aceb"
+	}
+}
