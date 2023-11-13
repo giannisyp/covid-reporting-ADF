@@ -7,7 +7,7 @@ Project Architecture
 ![photo2](https://github.com/giannisyp/covid-reporting-ADF/assets/119696474/30777348-fedd-4aa6-b20b-9d5b8fe390aa)
 
 
-1. It uses automated pipelines to ingest data from the European Centre for Disease Prevention and Control
+1. It uses automated pipelines to ingest data from the European Center for Disease Prevention and Control
 
 2. Uses ADF pipelines for Data Transformation to make data viable for reports and understanding
 For some of the transformations processes azure data factory's data flow was used which is its own compute and for the rest Databricks notebooks.
